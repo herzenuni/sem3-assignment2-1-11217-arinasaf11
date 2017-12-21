@@ -7,6 +7,6 @@ def func(a, b, c):
 	return test
 
 
-test1 = factory(1, 11, 1)
-test2 = factory(5, 55, 5)
-test3 = factory(12345, 123, 3)
+test1 = func(1, 12, 11)
+test2 = func(5, 55, 5)
+test3= func(30, 18, 6)
